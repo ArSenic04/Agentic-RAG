@@ -1,0 +1,11 @@
+os
+json
+requests
+langchain_groq
+langgraph
+typing_extensions
+dotenv
+faiss-cpu
+numpy
+sentence-transformers
+IPython
